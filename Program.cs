@@ -9,7 +9,12 @@
             //Swap.call();
             //LargestNumber.Largest();
             // QutotientandReaminder.FindQandR();
-            OddandEven.oddoreven();
+            //OddandEven.oddoreven();
+            //LeapYear.call();
+            //Harmonic.Call();
+            //Factor.call();
+            Fibbnoic.call();
+
         }
     }
 }
