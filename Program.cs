@@ -13,7 +13,8 @@
             //LeapYear.call();
             //Harmonic.Call();
             //Factor.call();
-            Fibbnoic.call();
+            //Fibbnoic.call();
+            FlipCoin.call();
 
         }
     }
